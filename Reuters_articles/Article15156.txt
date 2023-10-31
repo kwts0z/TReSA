@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MELLON PARTICIPATING MORTGAGE TRUST <MPMTS> DIV</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Payable May 6
+    Record April 24
+ Reuter
+</BODY>

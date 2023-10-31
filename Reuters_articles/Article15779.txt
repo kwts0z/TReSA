@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>A.O. SMITH CORP <SMC> SETS QUARTERLIES</TITLE>
+<BODY>Qtly divs Class A and B 20 cts vs 20 cts
+    Pay May 15
+    Record April 30
+ Reuter
+</BODY>

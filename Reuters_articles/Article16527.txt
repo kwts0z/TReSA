@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FLEXIBLE <FLXX.O> IN GENERAL DYNAMICS <GD> ORDER</TITLE>
+<BODY>Flexible Computer Corp said it has
+received a 418,000 dlr order from General Dynamics Corp for a
+FLEX/32 multicomputer.
+ Reuter
+</BODY>

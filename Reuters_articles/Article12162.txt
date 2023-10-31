@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CIRO INC <CIRI> YEAR</TITLE>
+<BODY>Shr loss three cts vs profit 16 cts
+    Net loss 119,000 vs profit 637,000
+    Revs 17.5 mln vs 15.8 mln
+ Reuter
+</BODY>

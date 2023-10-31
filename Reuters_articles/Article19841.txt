@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HEALTH CARE PROPERTY <HCP> INCREASES QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 63 cts vs 62 cts
+    Pay Nov 20
+    Record Nov 3
+ Reuter
+</BODY>

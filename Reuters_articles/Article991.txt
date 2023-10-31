@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>U.S. FINANCIAL ANALYSTS - March 3</TITLE>
+<BODY>New York
+ Sarich Technologies Trust - New York
+ Health Management Associates - New York
+
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HARTFORD NATIONAL CORP <HNAT> REGULAR DIVIDEND</TITLE>
+<BODY>Qtly div 30 cts vs 30 cts in prior qtr
+    Payable April 20
+    Record March 31
+ Reuter
+</BODY>

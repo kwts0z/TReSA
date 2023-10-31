@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>THE CHUBB CORP <CB> SETS QTRLY PAYOUT</TITLE>
+<BODY>Qtrly 42 cts vs 42 cts prior
+    Pay April 7
+    Record March 20
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usauk</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>VITRONICS <VITX> PLANS BRITISH PLANT</TITLE>
+<BODY>Vitronics Corp said it plans to
+establish a plant in Plymouth, England, to serve European
+customers.
+ Reuter
+</BODY>

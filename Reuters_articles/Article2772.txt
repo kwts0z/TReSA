@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CHUBB CORP <CB> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 42 cts vs 42 cts prior
+    Pay April Seven
+    Record March 20
+ Reuter
+</BODY>

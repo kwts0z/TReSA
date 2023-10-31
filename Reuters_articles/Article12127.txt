@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MULTIBANK FINANCIAL CORP <MLTF> IN PAYOUT</TITLE>
+<BODY>Qtly div 13 cts vs 13 cts prior
+    Pay April 20
+    Record April 10
+ Reuter
+</BODY>

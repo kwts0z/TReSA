@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>THOMPSON MEDICAL CO INC <TM> DECLARES QTLY DIV</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Pay April 15
+    Record March 30
+ Reuter
+</BODY>

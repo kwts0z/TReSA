@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CIRCUIT CITY STORES INC <CC> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 1-1/2 cts vs 1-1/2 cts prior
+    Pay April 15
+    Record March 30
+ Reuter
+</BODY>

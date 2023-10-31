@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HEALTH-MOR INC <HMI> SETS DIVIDEND</TITLE>
+<BODY>Qtly dividend 17 cts vs 17 cts
+    Pay April 10
+    Record March 26
+ Reuter
+</BODY>

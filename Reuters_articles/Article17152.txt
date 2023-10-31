@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>VALLEY CAPITAL <VCCN.O> IN NASDAQ EXPANSION</TITLE>
+<BODY>Valley Capital Corp said its common
+stock has been listed on NASDAQ's National Market System,
+effective today.
+ Reuter
+</BODY>

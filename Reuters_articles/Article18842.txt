@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>UNOCAL CORP <UCL> QTLY DIVIDEND</TITLE>
+<BODY>Shr 25 cts vs 25 cts prior qtr
+    Pay August 10
+    Record July 10
+ Reuter
+</BODY>

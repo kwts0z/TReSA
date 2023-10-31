@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>KMW SYSTEMS CORP <KMWS.O> 1ST QTR SEPT 30</TITLE>
+<BODY>Shr five cts vs eight cts
+    Net 100,000 vs 176,000
+    Revs 4,027,000 vs 3,649,000
+    NOTE: 1986 qtr includes gain 90,000 dlrs, or four cts per
+share, from tax gain.
+ Reuter
+</BODY>

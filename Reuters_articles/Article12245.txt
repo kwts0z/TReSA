@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MELLON <MEL>, REPUBLIC <RPT> LIFT PRIME RATES</TITLE>
+<BODY>Mellon Bank NA of Pittsburgh and
+Republic Bank of Dallas have both raised their prime lending
+rates to 7-3/4 pct from 7-1/2, effective immediately.
+ Reuter
+</BODY>

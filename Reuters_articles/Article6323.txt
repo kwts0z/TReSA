@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BANKERS TRUST NEW YORK CORP <BT> QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 41.5 cts vs 41.5 cts prior
+    Pay April 28
+    Record March 31
+ Reuter
+</BODY>

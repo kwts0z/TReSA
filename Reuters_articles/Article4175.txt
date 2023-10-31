@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SEAL INC <SINC> 1ST QTR JAN 31 NET</TITLE>
+<BODY>Shr 29 cts vs 16 cts
+    Net 610,000 vs 329,000
+    Sales 6,714,000 vs 4,582,000
+ Reuter
+</BODY>

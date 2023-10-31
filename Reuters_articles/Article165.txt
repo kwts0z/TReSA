@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>LIQUID AIR CORP <LANA> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 40 cts vs 40 cts
+    Pay March 31
+    Record March 16
+ Reuter
+</BODY>

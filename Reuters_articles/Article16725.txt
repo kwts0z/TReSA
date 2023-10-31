@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>OTTER TAIL POWER CO <OTTR.O> SETS DIVIDEND</TITLE>
+<BODY>Qtly dividend 73 cts vs 73 cts
+    Pay June 10
+    Record May 15
+ Reuter
+</BODY>

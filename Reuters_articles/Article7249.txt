@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE><BURKE-PARSONS-BOWLBY> CORP SETS REGULAR PAYOUT</TITLE>
+<BODY>Qtrly div three cts vs three cts prior
+    Pay May 15
+    Record April 24
+ Reuter
+</BODY>

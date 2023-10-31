@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DATA ARCHITECTS <DRCH> TO TRADE ON AMEX</TITLE>
+<BODY>The American Stock Exchange said Data
+Architects Inc common will begin trading on the exchange
+tomorrow under the symbol <DAI>.
+REUTER^M
+</BODY>

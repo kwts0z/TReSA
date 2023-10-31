@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PALL CORP <PLL> SETS QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 8-1/2 cts vs 8-1/2 cts prior
+    Pay May One
+    Record April 20
+ Reuter
+</BODY>

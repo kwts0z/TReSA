@@ -1,0 +1,11 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CYANOTECH <CYAN> SETS WAY TO EXTRACT CAROTENE</TITLE>
+<BODY>Cyanotech Corp said it has
+developed a new way to extract beta carotene from algae.
+    The company said the method reduces energy requirements by
+70 pct and produces 90 pct recovery.
+    The company has been a commercial producer of beta carotene
+since May, 1986.
+ Reuter
+</BODY>

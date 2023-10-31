@@ -1,0 +1,8 @@
+<PLACES>switzerland</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SWISSAIR <SWSZ.Z> YEAR 1986</TITLE>
+<BODY>Net 64.5 mln Swiss francs vs 68.5 mln
+    Div 33 francs per share vs 38
+    Turnover 4.03 billion vs 4.35 billion.
+ REUTER
+</BODY>

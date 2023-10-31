@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NL INDUSTRIES INC <NL> SET REGULAR PAYOUT</TITLE>
+<BODY>Qtly div five cts vs five cts prior
+    Pay March 31
+    Record March 16
+ Reuter
+</BODY>

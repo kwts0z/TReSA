@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GENERAL PHYSICS <GPHY> FORMS NEW UNIT</TITLE>
+<BODY>General Physics Corp said it
+has formed a new business unit called HP Technical Services to
+furnish health physics technicians and radiological engineers
+and scientists to the electric utility industry for use in
+nuclear power plants.
+ Reuter
+</BODY>

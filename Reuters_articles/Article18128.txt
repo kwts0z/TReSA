@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>VMS MORTGAGE INVESTORS LP II <VMLPZ.O> IN PAYOUT</TITLE>
+<BODY>Qtly div 21 cts vs 21 cts prior
+    Pay Aug 14
+    Record July One
+ Reuter
+</BODY>

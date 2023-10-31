@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>K MART CORP <KM> SETS QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 29 cts vs 29 cts prior qtr
+    Pay Dec 7
+    Record Nov 19
+ Reuter
+</BODY>

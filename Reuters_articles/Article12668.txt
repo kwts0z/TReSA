@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AMEX LISTS PORTAGE INDUSTRIES <PTG></TITLE>
+<BODY>The American Stock Exchange said it has
+listed the common shares of Portage Industres Corp, which went
+public today.
+ Reuter
+</BODY>

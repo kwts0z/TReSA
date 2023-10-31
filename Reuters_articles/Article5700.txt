@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DI GIORGIO CORP <DIG> QTLY DIVIDEND</TITLE>
+<BODY>Shr 16 cts vs 16 cts prior qtr
+    Pay May 15
+    Record April 17
+ Reuter
+</BODY>

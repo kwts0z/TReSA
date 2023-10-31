@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>RHODES INC <RHD> DECLARES DIVIDEND</TITLE>
+<BODY>Qtly div nine cts vs nine cts prior
+    Pay July 15
+    Record June 15
+ Reuter
+</BODY>

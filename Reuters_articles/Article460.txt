@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BRENCO INC <BREN> DECLARES QTLY DIVIDEND</TITLE>
+<BODY>Qtly div three cts vs three cts prior
+    Pay April six
+    Record March 20
+ Reuter
+</BODY>

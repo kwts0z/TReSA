@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ERBAMONT <ERB> ACQUIRES ANTIBIOTICOS S.A.</TITLE>
+<BODY>Erbamont N.V. said its major
+shareholder <Montedison SpA>, which owns 85 pct of its common,
+and Farmitalia Carlo Erba, its 75 pct owned subsidiary, have
+acquired <Antibioticos S.A.> and related subsidiaries.
+    Terms of the acquisition were not disclosed.
+ Reuter
+</BODY>

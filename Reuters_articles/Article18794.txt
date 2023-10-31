@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>STANDARD PRODUCTS CO <SPD> REGULAR DIVIDEND</TITLE>
+<BODY>Qtly div 20 cts vs 20 cts prior
+    Pay July 24
+    Record July 10
+ Reuter
+</BODY>

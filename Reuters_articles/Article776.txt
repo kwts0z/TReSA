@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CAREMARK <CMRK> CHANGES FISCAL YEAR-END</TITLE>
+<BODY>Caremark Inc said it is
+changing its fiscal year-end to a calendar year from the
+previous fiscal year ending June 30.
+ Reuter
+</BODY>

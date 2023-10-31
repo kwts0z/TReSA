@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>YORK FINANCIAL CORP <YFED> DECLARES QTLY DIV</TITLE>
+<BODY>Qtly div 17 cts vs 17 cts prior
+    Pay May five
+    Record April 20
+ Reuter
+</BODY>

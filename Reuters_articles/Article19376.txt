@@ -1,0 +1,9 @@
+<PLACES>west-germany</PLACES>
+<PEOPLE>poehl</PEOPLE>
+<TITLE>POEHL SEES GOOD CHANCES FOR CURRENCY STABILITY</TITLE>
+<BODY>Bundesbank president Karl Otto Poehl
+said there were good chances for exchange rate stability.
+    "The chances for exchange rate stability are good," he told
+reporters.
+ Reuter
+</BODY>

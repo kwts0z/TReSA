@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PSE TO START OPTION TRADE ON BAKER HUGHES <BHI></TITLE>
+<BODY>The Pacific Stock Exchange said it
+will start options trading on Baker Hughes Inc today.
+    Expirations will be January, May, July and October.
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SHOWBOAT <SBO> DECLARES STOCK SPLIT</TITLE>
+<BODY>Showboat Inc said its board declared a
+two-for-one stock split, payable to shareholders of record on
+May 15.
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ITT CORP <ITT> DECLARES DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Pay July 1
+    Record May 7
+ Reuter
+</BODY>

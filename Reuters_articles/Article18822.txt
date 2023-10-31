@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>RTE <RTE> BUYS SOME EMHART <EMH> ASSETS</TITLE>
+<BODY>RTE Corp said it completed the
+purchase of the U.S. aluminum electrolytic capacitor business
+and related assets of Emhart Corp, for undisclosed terms.
+ Reuter
+</BODY>

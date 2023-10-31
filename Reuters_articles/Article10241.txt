@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DUCOMMUN INC <DCO> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div five cts vs five cts
+    Pay April 30
+    Record April 15
+ Reuter
+</BODY>

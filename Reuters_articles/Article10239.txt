@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>URS CORP <URS> REGULAR STOCK DIVIDEND</TITLE>
+<BODY>Qtly div five pct stock vs five pct stock
+    Pay April 16
+    Record April six
+ Reuter
+</BODY>

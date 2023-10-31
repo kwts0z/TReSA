@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>H.F. AHMANSON AND CO <AHM> QTLY DIVIDEND</TITLE>
+<BODY>Shr 22 cts vs 22 cts prior qtr
+    Pay June one
+    Record May 12
+ Reuter
+</BODY>

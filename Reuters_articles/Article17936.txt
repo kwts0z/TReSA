@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NYNEX CORP <NYN> SETS QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 95 cts vs 95 cts prior
+    Pay August three
+    Record June 30
+ Reuter
+</BODY>

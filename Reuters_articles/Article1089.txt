@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>KNUTSON MORTGAGE CORP <KNMC> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Pay April 13
+    Record March 13
+ Reuter
+</BODY>

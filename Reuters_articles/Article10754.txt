@@ -1,0 +1,10 @@
+<PLACES>uk</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BANK OF ENGLAND DOES NOT OPERATE IN MONEY MARKET</TITLE>
+<BODY>The Bank of England said it had not
+operated in the money market during the morning session.
+    Earlier, the Bank revised its forecast of the liquidity
+position to flat from its original estimate of a 100 mln stg
+surplus.
+ REUTER
+</BODY>

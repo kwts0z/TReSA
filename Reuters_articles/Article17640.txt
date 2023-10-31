@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>C.R.I. INSURED MORTGAGE INVESTMENTS <CRM> PAYOUT</TITLE>
+<BODY>Mthly div 16-1/2 cts vs 16-1/2 cts prior
+    Pay Aug 15
+    Record June 30
+    NOTE: C.R.I. Insured Mortgage Investments LP.
+ Reuter
+</BODY>

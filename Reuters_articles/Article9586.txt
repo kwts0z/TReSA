@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PULITZER PUBLISHING CO <PLTZC> DECLARES QTLY DIV</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Pay May 1
+    Record April 10
+ Reuter
+</BODY>

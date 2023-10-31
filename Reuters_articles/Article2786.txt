@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>INTERNATIONAL MULTIFOODS CORP <IMC> DIVIDEND</TITLE>
+<BODY>Qtly div 29-1/2 cts vs 29-1/2 cts prior
+    Pay April 15
+    Record March 27
+ Reuter
+</BODY>

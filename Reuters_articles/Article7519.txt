@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GREAT WESTERN SAVINGS BANK <GWSB> QUARTERLY DIV</TITLE>
+<BODY>Qtly div 12 cts vs 12 cts
+    Pay April 8
+    Record April 1
+ Reuter
+</BODY>

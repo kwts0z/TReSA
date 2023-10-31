@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PILLSBURY CO <PSY> REGULAR DIVIDEND SET</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Pay August 31
+    Record August Three
+ Reuter
+</BODY>

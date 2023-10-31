@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HARTFORD NATIONAL CORP <HNAT> DECLARES DIVIDEND</TITLE>
+<BODY>Qtly div 30 cts vs 30 cts prior
+    Pay April 20
+    Record March 31
+ Reuter
+</BODY>

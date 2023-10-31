@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MICKELBERRY CORP <MBC> SETS QTLY PAYOUT</TITLE>
+<BODY>Qtly div 1-1/2 cts vs 1-1/2 cts prior
+    Pay March 31
+    Record March 13
+ Reuter
+</BODY>

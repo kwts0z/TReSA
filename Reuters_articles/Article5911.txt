@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CHARTER-CRELLIN INC <CRTR> YEAR NET</TITLE>
+<BODY>Shr 1.40 dlrs vs 1.38 dlrs
+    Net 1,928,800 vs 1,485,600
+    Sales 35.2 mln vs 33.5 mln
+    Avg shrs 1,350,800 vs one mln
+ Reuter
+</BODY>

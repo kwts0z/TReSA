@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ROCHESTER TELEPHONE CORP <RTC> SETS DIVIDEND</TITLE>
+<BODY>Qtly div 66 cts vs 66 cts
+    Pay May one
+    Record April 15
+ Reuter
+</BODY>

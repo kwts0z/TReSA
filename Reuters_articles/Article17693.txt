@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WESTERN FEDERAL SAVINGS BANK <WFPR> SETS PAYOUT</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts prior
+    Pay July 15
+    Reord June 30    
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AFFILIATED PUBLICATIONS <AFP> QUARTERLY DIV</TITLE>
+<BODY>Qtly div eight cts vs eight cts prior
+    Pay Sept 1
+    Record Aug 15
+ Reuter
+</BODY>

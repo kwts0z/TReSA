@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HUDSON GENERAL CORP <HGC> SETS DIVIDEND</TITLE>
+<BODY>Semi div 20 cts vs 20 cts prior
+    Pay July One
+    Record June 17
+ Reuter
+</BODY>

@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SOUTHERN NEW ENGLAND TELECOM <SNG> DECLARES DIV</TITLE>
+<BODY>Qtly div 72 cts vs 72 cts prior
+    Pay April 15
+    Record March 23
+    NOTE: Company's full name is Southern New England
+Telecommunications Corp.
+ Reuter
+</BODY>

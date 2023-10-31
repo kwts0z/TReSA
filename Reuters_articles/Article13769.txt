@@ -1,0 +1,13 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AAR <AIR> UNIT SIGNS SERVICE AGREEMENT</TITLE>
+<BODY>AAR Corp said its AAR
+Technical Service Center unit signed a major maintenance
+agreement with Continental Airlines to provide a wide range of
+support for components operated on Continental's expanding
+fleet of B727, B737, DC9, MD80 and DC10 aircraft.
+    It said it is the largest component repair service
+agreement reached by Continental Airlines with an independent
+repair facility.
+ Reuter
+</BODY>

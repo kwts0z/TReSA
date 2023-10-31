@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SECURITY PACIFIC CORP <SPC> QTLY DIVIDEND</TITLE>
+<BODY>Shr 45 cts vs 45 cts prior qtr
+    Pay November 20
+    Record November three
+ Reuter
+</BODY>

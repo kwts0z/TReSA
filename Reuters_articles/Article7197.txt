@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TELE-ART <TLARF> EXTENDS WARRANTS</TITLE>
+<BODY>Tele-Art Inc said its class A warrants
+which were due to expire March 19 have been extended to April
+18.
+    Tele-Art designs and manufactures digital watches and
+clocks.
+ Reuter
+</BODY>

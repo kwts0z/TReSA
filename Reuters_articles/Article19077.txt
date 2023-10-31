@@ -1,0 +1,5 @@
+<PLACES>west-germany</PLACES>
+<PEOPLE>stoltenberg</PEOPLE>
+<TITLE> Stoltenberg says Louvre accord vital to West Germany
+</TITLE>
+<BODY> </BODY>

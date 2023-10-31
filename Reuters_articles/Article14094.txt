@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FEDERAL RESOURCES <FDRC> NAMES NEW PRESIDENT</TITLE>
+<BODY>Federal Resources Corp said it has
+named John Kotts president and chief operating officer,
+replacing Paul Hannesson, who remains chairman and chief
+executive officer.
+ Reuter
+</BODY>

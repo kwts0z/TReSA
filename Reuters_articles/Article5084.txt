@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>UNIBANCORP INC <UBCP> REGULAR DIVIDEND SET</TITLE>
+<BODY>Qtly div 20 cts vs 20 cts previously
+    Pay April 15
+    Record March 23
+ Reuter
+</BODY>

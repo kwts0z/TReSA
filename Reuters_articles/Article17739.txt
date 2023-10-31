@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MET-COIL SYSTEMS CORP <METS.O> SETS PAYOUT</TITLE>
+<BODY>Qtly div three cts vs three cts prior
+    Pay July 31
+    Record July 15
+ Reuter
+</BODY>

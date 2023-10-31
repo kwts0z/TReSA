@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MURPHY OIL CORP <MUR> SETS REGULAR DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Pay June one
+    Record May 15
+ Reuter
+</BODY>

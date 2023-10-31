@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FREEPORT-MCMORAN RESOURCE LP <FRP> QTLY PAYOUT</TITLE>
+<BODY>Qtly cash distribution 60 cts vs 60 cts prior
+    Pay May 15
+    Record April 30
+    Note: Full name is Freeport-McMoRan Resources Partners LP.
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WALTHAM SAVINGS BANK <WLBK> INITIAL DIVIDEND</TITLE>
+<BODY>Qtly div eight cts vs N.A.
+    Payable May 11
+    Record April 24
+ Reuter
+</BODY>

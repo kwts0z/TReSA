@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WHIRLPOOL CORP <WHR> REG QTLY DIV</TITLE>
+<BODY>Qtly div 27-1/2 cts vs 27-1/2 cts prior
+    Pay December 31
+    Record December Four
+ Reuter
+</BODY>

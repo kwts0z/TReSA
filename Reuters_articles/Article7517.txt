@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SOUTHERN CALIFORNIA EDISON CO <SCE> QTLY DIV</TITLE>
+<BODY>Qtly div 57 cts vs 57 cts
+    Pay April 30
+    Record April 3
+ Reuter
+</BODY>

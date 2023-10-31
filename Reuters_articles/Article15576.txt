@@ -1,0 +1,11 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>COMMONWEALTH EDISON <CWE> FILES DEBT OFFER</TITLE>
+<BODY>Commonwealth Edison Co filed with the
+Securities and Exchange Commission for the sale of 375 mln dlrs
+in first mortgage bonds.
+    It said the proceedings would be used to discharge or
+refund outstanding obligations.
+    No underwriter was named.
+ Reuter
+</BODY>

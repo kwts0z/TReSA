@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>STOKELY USA INC <STKY> REGULAR DIVIDEND SET</TITLE>
+<BODY>Qtly div three cts vs three cts previously
+    Pay April 15
+    Record April One
+ Reuter
+</BODY>

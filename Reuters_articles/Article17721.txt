@@ -1,0 +1,14 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>QUIXOTE <QUIX.O> UNIT, BATTELLE FORM AGREEMENT</TITLE>
+<BODY>Quixote Corp said its Ocean Scientific
+Inc subsidiary and the Columbus, Ohio, division of Battelle
+Memorial Institute signed a joint marketing agreement under
+which the organizations may provide joint services for specific
+research and development programs for healthcare and
+instrumentation.
+    The agreement will allow Ocean Scientific to offer its
+clients greater capability for designing new instrumentation
+systems, Quixote said.
+ Reuter
+</BODY>

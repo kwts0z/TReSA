@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BORMAN'S INC <BRF> DECLARES QTLY DIVIDEND</TITLE>
+<BODY>Qtly div five cts vs five cts prior
+    Pay June 15
+    Record May 18
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MEDTRONIC INC <MDT> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 22 cts vs 22 cts prior
+    Pay April 30
+    Record April 10 
+ Reuter
+</BODY>

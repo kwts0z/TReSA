@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WALGREEN CO <WAG> VOTES QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 13-1/2 cts vs 12-1/2 cts prior qtr
+    Pay 12 June
+    Record 21 May
+ Reuter
+</BODY>

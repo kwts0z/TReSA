@@ -1,0 +1,6 @@
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WALL STREET STOCKS OPEN LOWER</TITLE>
+<BODY>Wall Street stocks were lower at the
+opening bell.
+</BODY>

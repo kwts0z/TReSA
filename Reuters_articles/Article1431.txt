@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SYSTEMED <SYMD> INSTALLS PHARMACY SYSTEM</TITLE>
+<BODY>SysteMed Inc said it has sold
+a Pharmacy Module to 998-bed Memorial Medical Center of Long
+Beach, Calif.
+    Pharmacy Module is a computerized drug information system.
+    Value was not disclosed.
+ Reuter
+</BODY>

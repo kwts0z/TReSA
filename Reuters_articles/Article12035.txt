@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MICRODYNE CORP <MCDY> SETS PAYOUT</TITLE>
+<BODY>Semi div three cts vs three cts prior
+    Pay June 12
+    Record May 15
+ Reuter
+</BODY>

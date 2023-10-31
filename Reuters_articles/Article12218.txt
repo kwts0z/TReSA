@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>STRYKER <STRY> ACQUIRES HEXCEL <HXL> UNIT</TITLE>
+<BODY>Stryker Corp said it acquired
+Hexcel Medical Corp, a wholly owned subsidiary of Hexcel Corp.
+    The terms of the transaction were not disclosed.
+    The sale completes Hexcel's plan to sell all its medical
+products businesses, Hexcel said.
+ Reuter
+</BODY>

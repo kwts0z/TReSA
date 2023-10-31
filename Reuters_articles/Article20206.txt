@@ -1,0 +1,5 @@
+<PLACES>france</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE> French industrial production fell 0.95 pct in July/August from June -- INSEE data
+</TITLE>
+<BODY> </BODY>

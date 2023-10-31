@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GRACO INC <GGG> VOTES QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts prior qtr
+    Pay 6 May
+    Record 8 April
+ Reuter
+</BODY>

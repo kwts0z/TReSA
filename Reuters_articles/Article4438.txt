@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MASCO CORP <MAS> REGULAR DIVIDEND SET</TITLE>
+<BODY>Qtly div nine cts vs nine cts previously
+    Pay May 11
+    Record April 17
+ Reuter
+</BODY>

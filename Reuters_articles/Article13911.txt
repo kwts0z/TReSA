@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HITK <HITK> JOINS NASDAQ NATIONAL MARKET SYSTEM</TITLE>
+<BODY>HITK Corp said its common stock
+will be included in NASDAQ's National Market System starting
+today, making the stock marginable.
+ Reuter
+</BODY>

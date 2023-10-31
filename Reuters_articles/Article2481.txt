@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TIMES MIRROR CO <TMC> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 41 cts vs 41 cts
+    Pay June 10
+    Record May 29
+ Reuter
+</BODY>

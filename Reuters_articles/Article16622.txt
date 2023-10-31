@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BANK OF NEW ENGLAND CORP <BKNE.O> 1ST QTR</TITLE>
+<BODY>Shr 1.04 dlrs vs 83 cts
+    Net 51.7 mln vs 39.4 mln
+      
+ Reuter
+</BODY>

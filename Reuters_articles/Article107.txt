@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MERIDIAN BANCORP INC <MRDN> SETS REGULAR PAYOUT</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Pay April one
+    Record March 15
+ Reuter
+</BODY>

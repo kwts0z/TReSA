@@ -1,0 +1,9 @@
+<PLACES>west-germany</PLACES>
+<PEOPLE>stoltenberg</PEOPLE>
+<TITLE>STOLTENBERG SAYS GLOBAL SHARE CRASH OVERDONE</TITLE>
+<BODY>West German Finance Minister Gerhard
+Stoltenberg said the global share price crash was overdone and
+unfounded.
+    Stoltenberg was speaking at a press conference.
+ REUTER
+</BODY>

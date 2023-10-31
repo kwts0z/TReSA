@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>VARIAN <VAR> GETS <TOSHIBA CORP> CONTRACT</TITLE>
+<BODY>Varian Associates Inc said it
+has received a three-year contract worth over 30 mln dlrs from
+Toshiba Corp to supply anode X-ray generating tubes for
+Toshiba's line of computerized tomography scanners.
+ Reuter
+</BODY>

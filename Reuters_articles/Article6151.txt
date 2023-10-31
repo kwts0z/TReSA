@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FIRST OF MICHIGAN CAPITAL CORP <FMG> DIVIDEND</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts previously
+    Pay April 14
+    Record March 31
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GENERAL DYNAMICS <GD> SETS DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Pay May 15
+    Record April 20
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DESOTO INC <DSO> REGULAR DIVIDEND SET</TITLE>
+<BODY>Qtly div 35 cts vs 35 cts previously
+    Pay April 17
+    Record March 31
+ Reuter
+</BODY>

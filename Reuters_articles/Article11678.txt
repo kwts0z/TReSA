@@ -1,0 +1,12 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PHILADELPHIA SUBURBAN <PSC> BUYS SOFTWARE FIRM</TITLE>
+<BODY>Philadelphia Suburban Corp said
+it acquired Mentor Systems Inc, a Lexington, Ky., computer
+software company, for common stock.
+    Detailed terms were not disclosed.
+    Mentor specializes in public sector accounting systems. It
+has 73 employees at its Lexington facility, four branch offices
+in the Midwest and one in New York.
+ Reuter
+</BODY>

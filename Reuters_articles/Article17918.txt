@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BIC CORP <BIC> RAISES QUARTERLY</TITLE>
+<BODY>Qtly div 18 cts vs 15 cts prior
+    Pay July 30
+    Record July 10
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>KEMPER CORP <KEMC> REGULAR PAYOUT SET</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts previously
+    Pay May 29
+    Record May Eight
+ Reuter
+</BODY>

@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TEVA PHARMACEUTICAL <TEVIY.O> LISTED ON NASDAQ</TITLE>
+<BODY>Teva Pharmaceutical Industries Ltd said
+its shares are now quoted on the NASDAQ national market system.
+    The company said its shares previously were quoted on the
+Nasdaq national market list.
+ Reuter
+</BODY>

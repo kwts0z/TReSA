@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FIRST FEDERAL SAVINGS BANK OF MONTANA <FFSM> DIV</TITLE>
+<BODY>Qtly div seven cts vs seven cts prior
+    Payable April 28
+    Record April three
+ Reuter
+</BODY>

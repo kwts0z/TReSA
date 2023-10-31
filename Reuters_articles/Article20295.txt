@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CAL FED INCOME PARTNERS L.P. <CFI> QUARTERLY DIV</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts
+    Pay Nov 16
+    Record Oct 30
+ Reuter
+</BODY>

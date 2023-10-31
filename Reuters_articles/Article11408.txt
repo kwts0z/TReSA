@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SEACOAST SAVINGS <SSBA> INITIAL OFFER UNDERWAY</TITLE>
+<BODY>Underwriter Merrill Lynch and Co Inc
+<MER> said an initial public offering of 1,216,700 common
+shares of Seacoast Savings Bank of New Hampshire is underway at
+10 dlrs per share.
+ Reuter
+</BODY>

@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>STANADYNE <STNA>, UNITED TECHNOLOGIES END TALKS</TITLE>
+<BODY>Stanadyne Inc said it terminated
+discussions about its proposed purchase of United Technologies
+Corp's Diesel Systems <UTX> unit.
+    The reason was not disclosed.
+ Reuter
+</BODY>

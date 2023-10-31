@@ -1,0 +1,11 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ENERGY FACTORS <EFAC> TO BUY ALLIED <ALD> UNITS</TITLE>
+<BODY>Energy Factors Inc said it has signed
+an agreement to acquire GWF Power Systems Co and Combustion
+Power Co Inc from Allied-Signal Inc for undisclosed terms.
+    The two Allied units operate and are developing
+cogeneration projects and small petroleum-coke fueled power
+plants.
+ Reuter
+</BODY>

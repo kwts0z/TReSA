@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BANKAMERICA'S <BAC> COOPER JOINS ISFA</TITLE>
+<BODY>ISFA Corp said Thomas A. Cooper, who
+recently resigned as president of BankAmerica Corp, has been
+named chairman and chief executive officer of ISFA.
+    ISFA operates Invest, a full-service brokerage program for
+banks, and Insure, a retail insurance program.
+ Reuter
+</BODY>

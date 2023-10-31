@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PACIFIC LIGHTING CORP <PLT> QTLY DIVIDEND</TITLE>
+<BODY>Shr 87 cts vs 87 cts prior qtr
+    Pay May 15
+    Record April 20
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DIEBOLD INC <DBD> DECLARES DIVIDEND</TITLE>
+<BODY>Qtly div 30 cts vs 30 cts prior
+    Pay June 8
+    Record May 18
+ Reuter
+</BODY>

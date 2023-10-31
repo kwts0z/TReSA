@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TENNECO <TGT> BUYS UNISYS <UIS> UNIT</TITLE>
+<BODY>Tenneco Inc said its Newport
+News Shipbuilding subsidiary has completed the purchase of the
+Sperry Marine Systems division of Unisys Corp for about 70 mln
+dlrs.
+    Sperry Marine has annual revenues of about 100 mln dlrs.
+ Reuter
+</BODY>

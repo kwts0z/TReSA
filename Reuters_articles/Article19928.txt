@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>B.F. GOODRICH <GR> SETS QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 39 cts vs 39 cts
+    Pay December 31
+    Record December 4
+ Reuter
+</BODY>

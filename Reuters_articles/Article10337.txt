@@ -1,0 +1,10 @@
+<PLACES>france</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ESSILOR INTERNATIONAL <ESSI.PA> YEAR ENDED DEC 31</TITLE>
+<BODY>Provisional consolidated net attributable profit 242.1 mln
+francs vs 240.1 mln.
+    Investments 318 mln vs 317 mln.
+    Dividend on ordinary shares 45 francs vs 42 francs.
+    Dividend on priority shares 51 francs vs 48 francs.
+ REUTER
+</BODY>

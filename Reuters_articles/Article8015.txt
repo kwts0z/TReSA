@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MONTGOMERY STREET INCOME <MTS> MONTHLY DIVIDEND</TITLE>
+<BODY>Mthly div 15 cts vs 15 cts
+    Pay April 15
+    Record April 1
+ Reuter
+</BODY>

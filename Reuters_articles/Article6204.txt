@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WESTERN FEDERAL SAVINGS BANK <WFPR> UPS PAYOUT</TITLE>
+<BODY>Qtly div 15 cts vs 12-1/2 cts prior
+    Pay April 15
+    Record March 31
+ Reuter
+</BODY>

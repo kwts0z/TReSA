@@ -1,0 +1,12 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PRIME COMPUTER <PRM> WINS CONTRACT</TITLE>
+<BODY>Prime Computer Inc said it
+received an order from the Philadelphia board of education for
+more than 8.0 mln dlrs of advanced computer equipment and
+software for automating its administrative and student
+accounting systems.
+    The systems, designed and manufactured by Prime, were
+introduced in April.
+ Reuter
+</BODY>

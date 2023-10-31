@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CAPITOL BANCORP <CAPB.O> RAISES QUARTERLY</TITLE>
+<BODY>Qtly div 24 cts vs 23 cts prior
+    Pay July 28
+    Record June 30
+ Reuter
+</BODY>

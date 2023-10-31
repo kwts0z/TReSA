@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CATERPILLAR INC <CAT> VOTES QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 12-1/2 cts vs 12-1/2 cts prior qtr
+    Pay 20 May
+    Record 20 April
+ Reuter
+</BODY>

@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>LUCKY STORES INC <LKS> REINSTATES QUARTERLY DIV</TITLE>
+<BODY>Qtly div 12.5 cts vs nil
+    Pay April 3
+    Record March 16
+    Note: in quarters preceeding 4th qtr, dividend was 29 cts.
+ Reuter
+</BODY>

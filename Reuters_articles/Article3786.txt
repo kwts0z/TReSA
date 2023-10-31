@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CONSOLIDATED NATURAL GAS CO <CNG> IN PAYOUT</TITLE>
+<BODY>Qtly div 37-1/2 cts vs 37-1/2 cts prior
+    Pay May 15
+    Record April 15
+ Reuter
+</BODY>

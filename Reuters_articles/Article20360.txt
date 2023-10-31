@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GOTAAS-LARSEN SHIPPING CORP <GOTLF.O> IN PAYOUT</TITLE>
+<BODY>Semi div 12 cts vs 12 cts prior
+    Pay Nov 10
+    Record Oct 27
+ Reuter
+</BODY>

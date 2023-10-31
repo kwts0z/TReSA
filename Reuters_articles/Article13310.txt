@@ -1,0 +1,9 @@
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ZZ ZD</TITLE>
+<BODY>April 7
+    N.Z. Dlr....0.5698/05
+    Aust Dlr....0.7076/81
+    U.K. Stg....1.6178/88
+ REUTER
+</BODY>

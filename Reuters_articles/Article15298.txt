@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DAYTON HUDSON CORP <DH> VOTES QUARTERLY PAYOUT</TITLE>
+<BODY>Qtly div 23 cts vs 23 cts prior qtr
+    Pay 10 June
+    Record 20 May
+ Reuter
+</BODY>

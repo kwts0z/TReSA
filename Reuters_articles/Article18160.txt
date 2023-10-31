@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CITIZENS FIRST BANCORP INC <CFB> DIVIDEND SET</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts previously
+    Pay August One
+    Record July 22
+ Reuter
+</BODY>

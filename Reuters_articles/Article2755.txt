@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ROCKY MOUNTAIN MEDICAL CORP <RMEDU> 1ST QTR LOSS</TITLE>
+<BODY>Dec 31
+    Shr loss one ct
+    Net loss 176,639
+    Revs 150,300
+    NOTE: Company went public in April 1986.
+ Reuter
+</BODY>

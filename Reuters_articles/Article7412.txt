@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>JP STEVENS AND CO INC <STN> SETS PAYOUT</TITLE>
+<BODY>Qtrly div 30 cts vs 30 cts prior
+    Pay April 30
+    Record April 3
+ Reuter
+</BODY>

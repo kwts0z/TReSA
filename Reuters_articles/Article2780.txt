@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ALUMINUM CO OF AMERICA <AA> REGULAR DIVIDEND</TITLE>
+<BODY>Qtly div 30 cts vs 30 cts in prior qtr
+    Payable May 25
+    Record May one
+ Reuter
+</BODY>

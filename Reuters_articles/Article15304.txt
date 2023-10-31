@@ -1,0 +1,13 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MCF FINANCIAL PLANS INITIAL PUBLIC OFFERING</TITLE>
+<BODY>MCF Financial Corp said it filed
+a registration statement with the Securities and Exchange
+Commission covering a proposed initial public offering of
+1,075,000 common shares.
+    MCF said proceeds from the offering will be used to repay
+debt, to purchase loan participation interests and for working
+capital.
+    MCF is engaged in the commercial finance business.
+ Reuter
+</BODY>

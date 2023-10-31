@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PARK ELECTROCHEMICAL CORP <PKE> SETS PAYOUT</TITLE>
+<BODY>Qtly div three cts vs three cts prior
+    Pay May 20
+    Record April 20
+ Reuter
+</BODY>

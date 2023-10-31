@@ -1,0 +1,13 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>KCBT HALTS TRADING IN VALUE LINE STOCK FUTURES</TITLE>
+<BODY>The Kansas City Board of Trade said
+it has halted trading in Value Line stock index futures.
+    The exchange said the move follows the halt in trading in
+futures, futures-options and options at several other exchanges
+because many of the underlying stocks that make up the indexes
+have stopped trading.
+    The exchange said trading would resume pending action by
+the other exchanges.
+ Reuter
+</BODY>

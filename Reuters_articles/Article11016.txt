@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>QUARTZ ENGINEERING <QRTZ> GETS SIEMENS ORDER</TITLE>
+<BODY>Quartz Engineering and Materials
+Inc said it has received a 500,000 dlr order from <Siemens AG>
+of West Germany for its ATMOSCAN automated environmentally
+controlled semiconductor wafer processing system.
+ Reuter
+</BODY>

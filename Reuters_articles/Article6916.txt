@@ -1,0 +1,8 @@
+<PLACES>canada</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE><TRIDEL ENTERPRISES INC> SETS INITIAL DIVIDEND</TITLE>
+<BODY>Qtly div five cts
+    Pay April 1
+    Record March 27
+ Reuter
+</BODY>

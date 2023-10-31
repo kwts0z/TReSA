@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NUCOR CORP <NUE> RAISES QUARTERLY</TITLE>
+<BODY>Qtly div nine cts vs eight cts prior
+    Pay May 12
+    Record March 31
+ Reuter
+</BODY>

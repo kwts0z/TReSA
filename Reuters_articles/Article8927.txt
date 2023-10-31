@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CENTERIOR ENERGY CORP <CX> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 64 cts vs 64 cts prior
+    Pay May 15
+    Record April 16
+ Reuter
+</BODY>

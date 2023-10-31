@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ANIMED INC <VETS> 1ST QTR JAN 31 LOSS</TITLE>
+<BODY>Shr loss six cts vs profit three cts
+    Net loss 368,188 vs profit 149,334
+    Revs 3,9i3,523 vs 4,129,240
+ Reuter
+</BODY>

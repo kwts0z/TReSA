@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GRAIN SHIPS LOADING AT PORTLAND</TITLE>
+<BODY>There were six grain ships loading and
+six ships were waiting to load at Portland, according to the
+Portland Merchants Exchange.
+  
+ Reuter
+</BODY>

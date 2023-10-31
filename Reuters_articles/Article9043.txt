@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GREAT ATLANTIC AND PACIFIC TEA CO INC <GAP> DIV</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Payable May one
+    Record April 15
+ Reuter
+</BODY>

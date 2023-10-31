@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NATIONAL COMMERCE <NCBC.O> IN KROGER <KR> DEAL</TITLE>
+<BODY>National Commerce Bancorp said it
+has agreed to operate or sublicense branch bank facilities in
+supermarkets in Florida and Virginia Kroger Co supermarkets.
+    It said initially 20 locations will be available in Florida
+and 10 in Virginia.
+ Reuter
+</BODY>

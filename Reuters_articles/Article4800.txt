@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ECHLIN INC <ECH> DIVIDEND INCREASED 12 PCT</TITLE>
+<BODY>Qtly div 14 cts vs 12.5 cts in prior qtr
+    Payable April 18
+    Record April two
+ Reuter
+</BODY>

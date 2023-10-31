@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WASHINGTON ENERGY CO <WECO.O> QTLY DIVIDEND</TITLE>
+<BODY>Shr 32 cts vs 32 cts prior qtr
+    Pay December 14
+    Record November 20
+ Reuter
+</BODY>

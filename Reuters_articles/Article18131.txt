@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SUFFIELD FINANCIAL CORP <SFCP.O> SETS QUARTERLY</TITLE>
+<BODY>Qtly div five cts vs five cts prior
+    Pay July 10
+    Record June 30
+ Reuter
+</BODY>

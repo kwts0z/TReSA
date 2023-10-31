@@ -1,0 +1,11 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AC TELECONNECT <ACCC> ADDS CANADA PHONE SERVICE</TITLE>
+<BODY>AC Teleconnect Corp's unit, ACC
+Long Distance Corp, said customers in Binghamton, Buffalo,
+Rochester and Syracuse, N.Y., will be able to place calls to
+Canada.
+    The company also said it plans to offer overseas telephone
+service to a number of countries in the summer 1987.
+ Reuter
+</BODY>

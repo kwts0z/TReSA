@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ARCO <ARC> SAYS NET TO COVER DIVIDEND PAYOUT</TITLE>
+<BODY>Atlantic Richfield Oil Co said it
+expects first quarter net income to cover its dividend
+requirements in the quarter.
+    The company paid a quarterly dividend of one dlr a share
+earlier this month.
+ Reuter
+</BODY>

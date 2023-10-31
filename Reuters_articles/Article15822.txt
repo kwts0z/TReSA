@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ALLIED BANKSHARES INC <ABGA> 1ST QTR NET</TITLE>
+<BODY>Shr 50 cts vs 26 cts
+    Net 1,316,000 vs 656,000
+    NOTE: qtr 1987 includes tax gain 500,000 dlrs, or 19 cts
+per share.
+ Reuter
+</BODY>

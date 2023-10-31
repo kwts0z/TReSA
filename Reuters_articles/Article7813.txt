@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WTD INDUSTRIES <WTDI> SAWMILL OFFER REJECTED</TITLE>
+<BODY>WTD Industries Inc said its
+offer to buy the bankrupt Harris Pine sawmill in Pendleton,
+Oregon was rejected by the bankruptcy court trustee.
+    The company said the bid was rjected in favor of a higher
+offer.
+ Reuter
+</BODY>

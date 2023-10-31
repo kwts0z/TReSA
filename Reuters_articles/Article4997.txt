@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GENERAL CINEMA CORP <GCN> COMMON STOCK DIVIDEND</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts prior
+    Pay April 30
+    Recrod April nine
+ Reuter
+</BODY>

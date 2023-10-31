@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FIRST AMERICAN FINANCIAL CORP <FAMR.O> PAYOUT</TITLE>
+<BODY>Shr 12-1/2 cts vs 12-1/2 prior qtr
+    Pay July 15
+    Record July 8
+
+ Reuter
+</BODY>

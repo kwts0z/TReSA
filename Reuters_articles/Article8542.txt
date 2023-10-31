@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DU PONT <DD> UPS STAKE IN PERCEPTIVE SYSTEMS</TITLE>
+<BODY>Du Pont Co has increased its equity
+stake in <Perceptive Systems Inc> to 33.5 pct from 20 pct,
+Perceptive Systems said.
+    Perceptive Systems, a venture capital firm based in
+Houston, makes digital imaging equipment.
+ Reuter
+</BODY>

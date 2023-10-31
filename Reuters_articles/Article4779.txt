@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NORTEK INC <NTK> SETS QUARTERLIES</TITLE>
+<BODY>Qtly div common 2-1/2 cts vs 2-1/2 cts prior
+    Qtly div special common one ct vs one ct
+    Pay May Eight
+    Record April Three
+ Reuter
+</BODY>

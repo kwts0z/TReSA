@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>UNICORP AMERICAN CORP <UAC> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts prior
+    Pay March 31
+    Record March 13
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FRIEDMAN INDUSTRIES INC <FRD> QUARTERLY DIV</TITLE>
+<BODY>Qtly div seven cts vs seven cts prior
+    Pay June one
+    Record May four
+ Reuter
+</BODY>

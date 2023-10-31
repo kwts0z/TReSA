@@ -1,0 +1,9 @@
+<PLACES>usamexico</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TEXAS AIR <TEX> UNIT TO ADD MEXICO FLIGHTS</TITLE>
+<BODY>Texas Air Corp's Continental Airlines
+unit said it will begin service to Mexico from Atlanta in May.
+    Continental said it will add non-stop flights to Mexico
+City, Puerto Vallarta, Cancun, Acapulco and Ixtapa.
+ Reuter
+</BODY>

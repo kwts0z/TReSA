@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CITY NATIONAL CORP <CTYN> RAISES DIVIDEND</TITLE>
+<BODY>Shr 16 cts vs 13 cts
+    Pay April 15
+    Record March 31
+ Reuter
+</BODY>

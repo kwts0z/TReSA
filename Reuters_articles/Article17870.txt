@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>GENERAL SIGNAL CORP <GSX> SETS QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 45 cts vs 45 cts prior
+    Pay October one
+    Record September four
+ Reuter
+</BODY>

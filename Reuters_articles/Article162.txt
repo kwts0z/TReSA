@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AFG INDUSTRIES INC <AFG> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div four cts vs four cts
+    Pay April 3
+    Record March 23
+ Reuter
+</BODY>

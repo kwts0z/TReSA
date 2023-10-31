@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BANGOR HYDRO-ELECTRIC CO <BANG> SETS DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts
+    Pay April 20
+    Record March 31
+ Reuter
+</BODY>

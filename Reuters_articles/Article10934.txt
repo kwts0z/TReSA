@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>USLICO <USC> STARTS TRADING ON NYSE</TITLE>
+<BODY>USLICO Corp said its common
+stock has started trading on the New York Stock Exchange.
+    The stock was formerly traded on the NASDAQ system.
+ Reuter
+</BODY>

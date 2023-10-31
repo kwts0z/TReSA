@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AMERICAN INFORMATION TECHNOLOGIES <AIT> PAYOUT</TITLE>
+<BODY>Qtly div 1.25 dlrs vs 1.25 dlrs prior
+    Pay Aug One
+    Record June 30
+    NOTE: American Information Technologies Corp.
+ Reuter
+</BODY>

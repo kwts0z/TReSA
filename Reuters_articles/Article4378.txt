@@ -1,0 +1,12 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MELVILLE <MES> NAMES CHIEF FINANCIAL OFFICER</TITLE>
+<BODY>Melville Corp said it elected
+Robert Huth as executive vice president and chief financial
+officer, succeeding Kenneth Berland on April six.
+    Berland will continue as vice chairman and chief
+administrative officer.
+    Huth is a partner in the accounting firm of Peat, Marwick,
+Mitchell and Co.
+ Reuter
+</BODY>

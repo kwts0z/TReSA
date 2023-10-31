@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BELL ATLANTIC CORP <BEL> SETS QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 96 cts vs 96 cts prior
+    Pay August one
+    Record June 30
+ Reuter
+</BODY>

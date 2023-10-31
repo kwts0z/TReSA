@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FITCHBURG GAS <FGE> RAISES QUARTERLY</TITLE>
+<BODY>Qtly div 38 cts vs 35 cts prior
+    Pay May 15
+    Record May One
+ Reuter
+</BODY>

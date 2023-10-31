@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>EARLE M. JORGENSEN CO <JOR> QTLY DIVIDEND</TITLE>
+<BODY>Shr 25 cts vs 25 cts prior qtr
+    Pay November 13
+    Record October 30
+ Reuter
+</BODY>

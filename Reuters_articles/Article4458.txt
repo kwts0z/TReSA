@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>IPCO CORP <IHS> REGULAR DIVIDEND</TITLE>
+<BODY>Qtly div nine cts vs nine cts in prior qtr
+    Payable May one
+    Record Apreil nine
+ Reuter
+</BODY>

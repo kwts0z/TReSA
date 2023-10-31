@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TEXAS INSTRUMENTS INC <TXN> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 50 cts vs 50 cts prior
+    Pay April 20
+    Record March 31
+ Reuter
+</BODY>

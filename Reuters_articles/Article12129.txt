@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>EHRLICH BOBER <EB> STARTS TRADING ON AMEX</TITLE>
+<BODY>Ehrlich Bober Financial Corp said its
+common stock has started trading on the <American Stock
+Exchange>.
+    The stock had been traded on the NASDAQ system.
+ Reuter
+</BODY>

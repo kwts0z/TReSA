@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BELL SOUTH <BLS> UNIT GETS DIGITAL CUSTOMERS</TITLE>
+<BODY>Bell South Corp's Southern Bell said
+American Telephone and Telegraph Co's <T> network systems and
+<Hayes Microcomputer Products> will use its integrated services
+digital network services when the product is launched in March
+1988.
+ Reuter
+</BODY>

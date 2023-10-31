@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WELLS FARGO AND CO <WFC> RAISES QUARTERLY DIV</TITLE>
+<BODY>Qtly div 50 cts vs 39 cts
+    Pay Jan 20
+    Record Dec 31
+ Reuter
+</BODY>

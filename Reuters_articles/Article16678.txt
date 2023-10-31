@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PS GROUP INC <PSG> QTLY DIVIDEND</TITLE>
+<BODY>Shr 15 cts vs 15 cts prior qtr
+    Pay May 18
+    Record April 27
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>I.M.S. INTERNATIONAL INC <IMSI> SETS QUARTERLY</TITLE>
+<BODY>Qtly div four cts vs four cts prior
+    Pay March 27
+    Record March 13
+ Reuter
+</BODY>

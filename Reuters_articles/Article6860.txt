@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FLUOROCARBON CORP <FCBN> QTLY DIVIDEND</TITLE>
+<BODY>Shr seven cts vs seven cts prior qtr
+    Pay April 30
+    Record April 15
+
+ Reuter
+</BODY>

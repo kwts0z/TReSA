@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DATA ARCHITECTS <DRCH> GETS TOKYO BANK CONTRACT </TITLE>
+<BODY>Data Architects Inc said it
+received a contract from the <Bank of Tokyo> to expand the
+installation of its bank electronic support systems at the
+bank.
+    It said the contract exceeds one mln dlrs.
+ Reuter
+</BODY>

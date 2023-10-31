@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WALLACE COMPUTER SERVICES INC <WCS> DIVIDEND</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts previously
+    Pay June 19
+    Record June One
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CALIFORNIA MICRO <CAMD> TRADES ON NASDAQ</TITLE>
+<BODY>California Micro Devices Corp
+said its stock was included in the March 17 expansion of the
+NASDAQ market system.
+ Reuter
+</BODY>

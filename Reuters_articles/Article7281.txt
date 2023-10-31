@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>AMEX TRADING ADAMS-RUSSELL ELECTRONICS <AEI></TITLE>
+<BODY>The American Stock Exchange said it
+has started trading the common stock of Adams-Russell
+Electronics Co Inc, which had been traded on the NASDAQ system.
+ Reuter
+</BODY>

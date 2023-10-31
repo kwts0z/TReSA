@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>DIME SAVINGS BANK OF WALLINGFORD <DIBK> PAYOUT</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Pay April 30
+    Record April Three
+ Reuter
+</BODY>

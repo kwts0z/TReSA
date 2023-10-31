@@ -1,0 +1,7 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CONTINENTAL ILLINOIS <CIL> RAISES PRIME RATE</TITLE>
+<BODY>Continental Illinois Corp said it has
+raised its prime rate to 7-3/4 from 7-1/2.
+ Reuter
+</BODY>

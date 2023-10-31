@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>CEMDAC GOES OUT OF BUSINESS</TITLE>
+<BODY>Cemdac Corp said it told the state
+of Minnesota to permanently suspend trading of its common
+stock.
+    The company said it is ceasing operations.
+ Reuter
+</BODY>

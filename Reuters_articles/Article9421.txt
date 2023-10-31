@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MONTANA POWER CO <MTP> VOTES QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 67 cts vs 67 cts prior qtr
+    Pay 30 April
+    Record 10 April
+ Reuter
+</BODY>

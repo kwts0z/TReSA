@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ACME-CLEVELAND CORP <AMT> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Pay May 13
+    Record April 29
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NORTHEAST UTILITIES <NU> YEAR</TITLE>
+<BODY>Shr 2.78 dlrs vs 2.55 dlr
+    NEt 302.0 mln vs 271.6 mln
+    REvs 2.0 billion vs 2.1 billion
+ Reuter
+</BODY>

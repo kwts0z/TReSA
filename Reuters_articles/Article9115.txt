@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>FIRST NEW HAMPSHIRE BANKS INC DIV</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts prior
+    Payable May one
+    Record April 10
+ Reuter
+</BODY>

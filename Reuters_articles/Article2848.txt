@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HOLLY SUGAR CORP <HLY> SETS REGULAR DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Pay March 31
+    Record March 18
+ Reuter
+</BODY>

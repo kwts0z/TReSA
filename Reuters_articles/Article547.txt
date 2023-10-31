@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MUTUAL OF OMAHA INTEREST SHARES <MUO> QTLY DIV</TITLE>
+<BODY>Qtly div 36 cts vs 36 cts prior
+    Pay April one
+    Record March 13
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SOUTHERN INDIANA GAS AND ELECTRIC <SIG> PAYOUT</TITLE>
+<BODY>Qtly div 53 cts vs 53 cts prior
+    Pay December 31
+    Record November 20
+ Reuter
+</BODY>

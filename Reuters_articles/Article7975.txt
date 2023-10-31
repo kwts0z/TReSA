@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PICO <PPI>, ANIXTER GET TELE-COMM <TCOM> ORDER</TITLE>
+<BODY>Pico Products Inc and <Anixter
+Communications> jointly announced that they received a purchase
+order from Tele-Communications Inc, for pay TV security
+products to be included in Tele-Comm's on-site control systems.
+    Terms were not disclosed.
+ Reuter
+</BODY>

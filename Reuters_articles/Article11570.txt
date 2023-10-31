@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BIC CORP <BIC> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 15 cts vs 15 cts prior
+    Pay April 30
+    Record April 14
+ Reuter
+</BODY>

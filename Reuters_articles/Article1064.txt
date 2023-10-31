@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>PILLSBURY CO <PSY> VOTES QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior qtr
+    Pay 31 May
+    Record 1 May
+ Reuter
+</BODY>

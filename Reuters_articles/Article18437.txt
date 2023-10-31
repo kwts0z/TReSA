@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>MOORE FINANCIAL GROUP <MFGI.O> QUARTERLY DIV</TITLE>
+<BODY>Qtly div 30 cts vs 30 cts prior
+    Pay July 16
+    Record July 6
+ Reuter
+</BODY>

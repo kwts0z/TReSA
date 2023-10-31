@@ -1,0 +1,12 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NATIONAL COMPUTER <NLCS.O> TO BUY SHARES</TITLE>
+<BODY>National Computer Systems Inc said
+its board authorized the company to repurchase up to 2.0 mln
+shares of its common stock in the open market.
+    The company currently has about 19 mln shares outstanding.
+    It said the shares will be retained for use in the employee
+stock purchase plan, stock option plans and for general
+corporate use.
+ Reuter
+</BODY>

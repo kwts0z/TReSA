@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>LONGVIEW FIBRE CO <LFBR> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 40 cts vs 40 cts
+    Pay April 10
+    Record March 25
+ Reuter
+</BODY>

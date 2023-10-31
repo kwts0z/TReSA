@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>JUSTIN INDUSTRIES INC <JSTN> SETS DIVIDEND</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Pay April 10
+    Record March 27
+ Reuter
+</BODY>

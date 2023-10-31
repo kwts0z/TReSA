@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ITT CORP <ITT> REGULAR QTRLY DIVIDEND</TITLE>
+<BODY>Qtly div 25 cts vs 25 cts prior
+    Payable July one
+    Record May 7
+ Reuter
+</BODY>

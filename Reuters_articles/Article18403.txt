@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>ENVIRONMENTAL <POWER.O> BOARDMEMBER RESIGNS</TITLE>
+<BODY>Environmental Power Corp said that Robert
+W. Baldridge has resigned from its board of directors,
+effective June 17.
+    Environmental develops, owns and operates small power
+production, hydropower, and waste-energy plants.
+ Reuter
+</BODY>

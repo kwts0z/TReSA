@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>COASTAL BANCORP <CSBK> SETS QUARTERLY</TITLE>
+<BODY>Qtly div five cts vs five cts prior
+    Pay April 15
+    Record March 30
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>UNITIL CORP <UTL> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 47 cts vs 47 cts prior
+    Pay Aug 15
+    Record Aug Three
+ Reuter
+</BODY>

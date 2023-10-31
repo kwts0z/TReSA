@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>UNISYS <UIS> IN MARKETING AGREEMENT WITH VMARK</TITLE>
+<BODY>Unisys Corp said its Value Added
+Marketing organization signed an agreement with privately held
+VMark Computer Inc for remarketing of the Unisys 5000 and 7000
+series of minicomputers with VMark software.
+    Terms were not disclosed.
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>LOWE'S COS INC <LOW> QTLY DIV</TITLE>
+<BODY>Qtly div 10 cts vs 10 cts prior
+    Payable April 30
+    Record April 10
+ Reuter
+</BODY>

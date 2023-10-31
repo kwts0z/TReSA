@@ -1,0 +1,9 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>STRAWBRIDGE <STRW> DECLARES STOCK DIVIDEND</TITLE>
+<BODY>Strawbridge and Clothier said its
+board declared a seven pct stock dividend, payable May 14 to
+holders of record April 14.
+    Earlier, the company reported net income of 20.7 mln dlrs.
+ Reuter
+</BODY>

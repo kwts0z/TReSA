@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>THE PARKWAY CO <PKWY.O> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 20 cts vs 20 cts prior
+    Pay Aug 19
+    Record Aug 3
+ Reuter
+</BODY>

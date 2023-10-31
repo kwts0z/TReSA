@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE><AMERICAN HOECHST CORP> YEAR NET</TITLE>
+<BODY>Net 38 mln vs 5.7 mln
+    Revs 1.71 billion vs 1.69 billion
+    NOTE: Fully owned subsidiary of Hoechst AG.
+ Reuter
+</BODY>

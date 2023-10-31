@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>BELLSOUTH <BLS> EXPANDS MOBILE PHONE SERVICE</TITLE>
+<BODY>BellSouth Corp's BellSouth
+Mobility Inc unit said its mobile phone customers can now
+choose their long-distance carrier.
+    Previously, all mobile calls were routed through American
+Telephone and Telegraph Co's long distance service.
+ Reuter
+</BODY>

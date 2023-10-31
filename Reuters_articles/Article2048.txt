@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>REGIS CORP <RGIS> REGULAR DIVIDEND SET</TITLE>
+<BODY>Qtly div 4-1/2 cts vs 4-1/2 cts prior
+    Pay April 15
+    Record March 24
+ Reuter
+</BODY>

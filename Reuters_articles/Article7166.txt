@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>(CORRECTED) - FEDERAL PAPER BOARD CO <FBO> PAYOUT</TITLE>
+<BODY>Qtly div 17.5 cts vs 17.5 cts in prior qtr
+    Payable April 15
+    Record March 31
+    (Company corrects amount of previous payment in MARCH 18
+item to show there was no change)
+ Reuter
+</BODY>

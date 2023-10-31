@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>WALKER TELECOMMUNICATIONS <WTEL> GETS CONTRACT</TITLE>
+<BODY>Walker Telecommunications corp
+said Teledial America has selected the fiber optic system
+operated by Walker's Mutual Signal Corp subsidiary to carry
+Teledial's traffic in Michigan and link interstate facilities
+throughout the country.
+ Reuter
+</BODY>

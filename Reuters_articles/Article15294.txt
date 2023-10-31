@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>STRATA CORP <STATA> YEAR DEC 31 LOSS</TITLE>
+<BODY>Shr loss 1.11 dlrs vs loss 1.53 dlrs
+    Net loss 7.1 mln vs loss 8.8 mln
+    Revs 3.1 mln vs eight mln
+ Reuter
+</BODY>

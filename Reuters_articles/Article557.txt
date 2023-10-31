@@ -1,0 +1,9 @@
+<PLACES>west-germanyusa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE><HOECHST AG> COMPLETES CELANESE <CZ> ACQUISITION</TITLE>
+<BODY>Hoechst AG of West Germany said
+it has completed the acquisition of Celanese Corp.
+    Hoechst acquired a majority of Celanese shares in a recent
+tender offer at 245 dlrs per common share.
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>INSTRON CORP <ISN> SETS QUARTERLY</TITLE>
+<BODY>Qtly div three cts vs three cts prior
+    Pay April 2
+    Record March 16
+ Reuter
+</BODY>

@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>NMR CENTERS <NMRC> ON NASDAQ NATIONAL SYSTEM</TITLE>
+<BODY>NMR Centers Inc said its
+common stock has started trading on the NASDAQ National Market
+System, making it eligible for margin financing.
+ Reuter
+</BODY>

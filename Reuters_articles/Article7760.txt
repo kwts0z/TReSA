@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>SOUTHEAST BANKING CORP <STB> SETS QUARTERLY</TITLE>
+<BODY>Qtly div 22 cts vs 22 cts prior
+    Pay April 10
+    Record March 30
+ Reuter
+</BODY>

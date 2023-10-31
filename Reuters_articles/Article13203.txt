@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>HOUSTON OIL ROYALTY TRUST <RTH> DISTRIBUTION</TITLE>
+<BODY>MONTHLY dist 2.1 cts vs 2.1 cts prior
+    Payable April 25
+    Record April 15
+ Reuter
+</BODY>

@@ -1,0 +1,10 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>INTERSTATE BAKERIES <IBC>BUYS MEXICAN FOOD FIRM</TITLE>
+<BODY>Interstate Bakeries Corp said
+its Royal American Foods subsidiary agreed to buy the assets of
+Landshire Food Products Inc, a New-Mexico-based producer of
+packaged Mexican food products.
+    Terms of the proposed transaction were not disclosed.
+ Reuter
+</BODY>

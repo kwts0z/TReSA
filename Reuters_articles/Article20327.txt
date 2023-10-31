@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>JOHNSON AND JOHNSON <JNJ> SETS QTLY DIVIDEND</TITLE>
+<BODY>Qtly div 42 cts vs 42 cts prior
+    Pay December 10
+    Record November 20
+ Reuter
+</BODY>

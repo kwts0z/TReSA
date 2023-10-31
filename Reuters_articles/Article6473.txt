@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>UNITED ASSET MANAGEMENT CORP <UAM> UPS PAYOUT</TITLE>
+<BODY>Qtly div four cts vs three cts prior
+    Pay April 15
+    Record March 31
+ Reuter
+</BODY>

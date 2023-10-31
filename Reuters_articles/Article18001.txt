@@ -1,0 +1,8 @@
+<PLACES>usa</PLACES>
+<PEOPLE></PEOPLE>
+<TITLE>TRANSAMERICA CORP <TA> QUARTERLY DIVIDEND</TITLE>
+<BODY>Qtly div 44 cts vs 44 cts
+    Pay July 31
+    Record July 3
+ Reuter
+</BODY>
